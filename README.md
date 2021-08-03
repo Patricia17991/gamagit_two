@@ -1,4 +1,6 @@
 gamagit
+
+
 Projeto desenvolvido durante as aulas de React do Gama Experience, da Gama Academy.
 
 A aplicação
@@ -6,6 +8,8 @@ A aplicação tem um funcionamento bastante simples: na página inicial, o usuá
 
 
 Motivação
+
+
 A ideia foi que, durante as aulas, os alunos fossem ensinados sobre conceitos fundamentais de React através da construção de uma aplicação simples e funcional. Os conceitos abordados foram:
 
 Hooks;
