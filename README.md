@@ -25,4 +25,6 @@ Usando a aplicação
 Para usá-la, basta executar os seguintes comandos na raíz do projeto:
 
 npm install
+
+
 npm start
