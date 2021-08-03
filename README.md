@@ -14,7 +14,7 @@ GAMAGIT_TWO
 MOTIVAÇÃO:
 
 
-A ideia foi que, durante as aulas, os alunos fossem ensinados sobre conceitos fundamentais de React através da construção de uma aplicação simples e funcional. Os conceitos abordados foram:
+A ideia nas aulas de react que tivemos foi que, durante as aulas,nós fossemos ensinados sobre conceitos fundamentais de React através da construção de uma aplicação simples e funcional. Os conceitos abordados foram:
 
 Hooks;
 Componentes;
