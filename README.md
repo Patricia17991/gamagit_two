@@ -2,9 +2,9 @@
 
 #Utilizamos:
 
-#-reactJS
-#-JavaScript
-#-Sass
-#-HTML5
-#-Axios
-#-react-router-dom
+#reactJS
+#JavaScript
+#Sass
+#HTML5
+#Axios
+#react-router-dom
