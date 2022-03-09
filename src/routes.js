@@ -10,7 +10,6 @@ export default Routes(){
         <Switch>
         <Route path='/' exact component={Home}/>
         <Route path='/repositories' component={Repositories}/>
-        
         </Switch>
        </BrowserRouter>
     )
